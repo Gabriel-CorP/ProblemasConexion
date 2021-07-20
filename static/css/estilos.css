@@ -1,0 +1,42 @@
+.bodyVisualizar{
+	/*background-color: #E3E4E5;*/
+
+}
+.navbar{
+   background-color: #000000;
+}
+
+
+.titulo{
+	height: 30px;
+	text-align: center;
+}
+
+.container{
+    /*background: linear-gradient(45deg,#66f 10%,#f80 30%,#ffc 60%);*/
+    box-shadow: 0 0 20px 0 rgba(0, 0, 128, .4);
+}
+
+.navbar-brand:hover{
+    background-color: #0da502;
+    transition: background-color 1.5s;
+}
+
+/*estilos para crearReportes*/
+.container2{
+    box-shadow: 0 0 20px 0 rgba(255, 255, 255, .4);
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.bodyForm{
+    background: #181818;
+    color: #ffffff;
+    font-family: 'Quicksand', sans-serif;
+    /*padding: 0 1.5em;*/
+}
+
+
+
